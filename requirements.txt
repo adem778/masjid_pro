@@ -1,0 +1,9 @@
+customtkinter
+pandas
+openpyxl
+numpy
+Pillow
+matplotlib
+arabic-reshaper
+python-bidi
+python-docx
